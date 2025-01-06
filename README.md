@@ -1,4 +1,4 @@
-# Multimodal-RAG-Chat-App
+# RAG-Chatbot-App
 
 ## Introduction
 
